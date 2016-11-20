@@ -2,7 +2,6 @@ obj
 *.deb
 .theos
 _
-jpeg-9a
 library
 libjpeg.arm*
 libvncserver.arm*
